@@ -4,6 +4,6 @@
 02.02.2025
 colab-first
 <<<<<<< HEAD
-test  revert test
+test
 
 то, что должно удалиться после команды revert
