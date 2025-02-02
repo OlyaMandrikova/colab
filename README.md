@@ -6,4 +6,3 @@ colab-first
 <<<<<<< HEAD
 test
 
-то, что должно удалиться после команды revert
